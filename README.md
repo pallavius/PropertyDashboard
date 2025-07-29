@@ -75,5 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-![image alt](https://github.com/pallavius/PropertyDashboard/blob/master/WhatsApp%20Image%202025-07-28%20at%2019.40.02_026c03ed.jpg)
 
+![image alt](https://github.com/pallavius/PropertyDashboard/blob/master/WhatsApp%20Image%202025-07-28%20at%2019.40.28_accb47b0.jpg)
